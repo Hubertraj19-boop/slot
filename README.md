@@ -31,7 +31,7 @@ Execute the program using runserver command.
 ## Register Number : 25018951
 <html>
 <head> 
-    <title>Slot Time Table - kalaimaran.I(25005710)</title>
+    <title>Slot Time Table - Hubert Raj.I(25005710)</title>
 </head>
 <body>
     <IMG SRC="logo.png"HEIGHT="150"WIDTH="500"BORDER=6>
